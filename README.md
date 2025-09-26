@@ -6,9 +6,11 @@ O projeto que eu escolhi foi um gerador de relatório do qual poderia ser implem
 
 O projeto consiste em 3 etapas:
 
-1- Fazer um MVP Canvas para elaborar as ideias iniciais do projeto e ter uma ideia mais sólida do que será necessário fazer
-2- Jira onde foi possível estruturar o projeto, separando as US e montando as Sprints
-3- Figma, onde foi possível fazer um protótipo do nosso projeto para que no futuro a equipe de desenvolvimento possa se basear nele para desenvolver
+1 - Fazer um MVP Canvas para elaborar as ideias iniciais do projeto e ter uma ideia mais sólida do que será necessário fazer
+
+2 - Jira onde foi possível estruturar o projeto, separando as US e montando as Sprints
+
+3 - Figma, onde foi possível fazer um protótipo do nosso projeto para que no futuro a equipe de desenvolvimento possa se basear nele para desenvolver
 
 Abaixo deixei os links que ultilizei para fazer o projeto (apenas o do Miro e do Wireframe vão funcionar):
 
